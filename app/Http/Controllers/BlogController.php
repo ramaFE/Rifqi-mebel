@@ -10,4 +10,9 @@ class BlogController extends Controller
     {
         return view('sections.blog');
     }
+
+    public function show($slug)
+    {
+        return view('blog.detail-' . $slug);
+    }
 }

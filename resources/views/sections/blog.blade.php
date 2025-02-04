@@ -40,7 +40,7 @@
 
             <hr>
 
-            <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+            <a href="{{ route('blog.detail', ['slug' => '1']) }}" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
 
           </div>
 
@@ -64,7 +64,7 @@
 
             <hr>
 
-            <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+            <a href="{{ route('blog.detail', ['slug' => '2']) }}" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
 
           </div>
 
@@ -88,7 +88,7 @@
 
             <hr>
 
-            <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+            <a href="{{ route('blog.detail', ['slug' => '3']) }}" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
 
           </div>
 
