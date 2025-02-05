@@ -35,10 +35,10 @@
               <article class="article">
 
                 <div class="post-img">
-                  <img src="{{ asset('assets/img/blog/blog-1.jpg') }}" alt="" class="img-fluid">
+                  <img src="{{ asset('assets/img/blog/blog-3.jpg') }}" alt="" class="img-fluid">
                 </div>
 
-                <h2 class="title">Rifqi Mebel Semarang: Solusi Sofa Berkualitas dengan Harga Bersahabat</h2>
+                <h2 class="title">Panduan Memilih Jenis Kain Sofa Saat Custom di Rifqi Mebel Semarang</h2>
 
                 <div class="meta-top">
                   <ul>
@@ -50,45 +50,37 @@
 
                 <div class="content">
                   <p>
-                    Jika Anda sedang mencari sofa dengan kualitas bahan terbaik dan harga yang bersahabat, 
-                    Rifqi Mebel Semarang adalah pilihan yang tepat! Berlokasi di Mangkang, Semarang, 
-                    kami menghadirkan berbagai pilihan sofa yang nyaman dan elegan untuk memenuhi kebutuhan rumah tangga maupun bisnis Anda.
+                    Memilih jenis kain yang tepat untuk sofa sangat penting agar sesuai dengan kebutuhan dan gaya interior rumah atau bisnis Anda. 
+                   <strong>Rifqi Mebel Semarang</strong> menyediakan berbagai pilihan kain berkualitas untuk custom sofa sesuai dengan keinginan pelanggan. 
+                    Berikut adalah beberapa jenis kain yang bisa Anda pilih beserta keunggulannya:
                   </p>
 
-                  <p>
-                    Sofa untuk Rumah dan Usaha Rifqi Mebel Semarang tidak hanya menyediakan sofa untuk keperluan rumah tangga
-                    , tetapi juga untuk berbagai kebutuhan usaha seperti:
-
-                  </p>
+                  <h3>
+                    Jenis-Jenis Kain Sofa dan Keunggulannya
+                  </h3>
 
                   <blockquote>
                     <p>
-                      Kafe – Ciptakan suasana nyaman dan stylish untuk pelanggan Anda.
-                      <br> Karaoke – Sofa berkualitas untuk kenyamanan tamu.
-                      <br> Kantor – Memberikan kesan profesional dan nyaman bagi karyawan serta tamu Anda.
+                     <strong>Midili</strong> – Kain dengan tekstur lembut dan halus, memberikan kesan mewah dan nyaman saat digunakan. Midili juga terkenal dengan daya tahan tinggi terhadap gesekan.
+                     <strong>Daphnie</strong> – Kain yang memiliki ketahanan lebih terhadap noda dan mudah dibersihkan, cocok untuk rumah dengan anak-anak atau hewan peliharaan.
+                     <strong>Oscar</strong> – Bahan sintetis yang menyerupai kulit, memberikan tampilan elegan dan mudah dirawat. Cocok untuk sofa bergaya minimalis atau klasik.
+                     <strong>Linen</strong> – Kain bernuansa alami dengan sirkulasi udara yang baik, cocok untuk daerah tropis karena tidak mudah panas.
+                     <strong>Beludru</strong> – Memberikan sentuhan mewah dengan tekstur lembut, sering digunakan untuk tampilan sofa yang elegan dan eksklusif.
                     </p>
                   </blockquote>
 
                   
-                  <h3> Kualitas Terbaik dengan Harga Bersahabat.</h3> 
+                  <h3>Custom Sofa Sesuai Kebutuhan Anda.</h3> 
                   <p>
                     <br> Kami memahami pentingnya kualitas dalam setiap produk yang kami buat. 
                     Oleh karena itu, Rifqi Mebel Semarang menggunakan bahan-bahan terbaik yang tahan lama dan nyaman digunakan. 
                     Dengan harga yang tetap bersahabat, kami berkomitmen untuk memberikan produk berkualitas tinggi yang tetap terjangkau bagi pelanggan.
                   </p>
 
-                  <h3>Custom Order & Pre-Order.</h3>
+                  <h3>Gratis Ongkir untuk Semarang & Kendal!</h3>
                   <p>
-                    Kami juga melayani pemesanan sofa secara custom sesuai dengan keinginan dan kebutuhan pelanggan. 
-                    Anda bisa request ukuran, warna, hingga desain yang diinginkan. 
-                    Sistem pemesanan di Rifqi Mebel Semarang adalah pre-order, sehingga setiap produk dibuat khusus dengan ketelitian dan kualitas maksimal. 
-                  </p>
-
-                  <h3>Ekspansi ke Berbagai Kota di Jawa Tengah.</h3>
-                  <p>
-                    Awalnya, Rifqi Mebel Semarang memasarkan produk di wilayah Semarang. 
-                    Seiring dengan meningkatnya permintaan, kami mulai memperluas jangkauan ke berbagai kabupaten kecil di sekitarnya hingga ke kota-kota besar di Jawa Tengah. 
-                    Hal ini membuktikan bahwa kualitas dan harga sofa dari Rifqi Mebel Semarang telah mendapat tempat di hati banyak pelanggan.
+                    Sebagai bentuk pelayanan terbaik, Rifqi Mebel Semarang memberikan free ongkir untuk wilayah Semarang dan Kendal. 
+                    Jadi, Anda bisa mendapatkan sofa custom impian tanpa harus khawatir dengan biaya pengiriman!
                   </p>
 
                   <h3>Hubungi Kami.</h3>
@@ -285,25 +277,25 @@
               <h3 class="widget-title">Recent Posts</h3>
 
               <div class="post-item">
-                <img src="{{ asset('assets/img/blog/blog-recent-1.jpg') }}" alt="" class="flex-shrink-0">
+                <img src="{{ asset('assets/img/blog/blog-1.jpg') }}" alt="" class="flex-shrink-0">
                 <div>
-                  <h4><a href="blog-details.html">Nihil blanditiis at in nihil autem</a></h4>
+                  <h4><a href="{{ route('blog.detail', ['slug' => '1']) }}">Nihil blanditiis at in nihil autem</a></h4>
                   <time datetime="2020-01-01">Jan 1, 2020</time>
                 </div>
               </div><!-- End recent post item-->
 
               <div class="post-item">
-                <img src="{{ asset('assets/img/blog/blog-recent-2.jpg') }}" alt="" class="flex-shrink-0">
+                <img src="{{ asset('assets/img/blog/blog-2.jpg') }}" alt="" class="flex-shrink-0">
                 <div>
-                  <h4><a href="blog-details.html">Quidem autem et impedit</a></h4>
+                  <h4><a href="{{ route('blog.detail', ['slug' => '2']) }}">Quidem autem et impedit</a></h4>
                   <time datetime="2020-01-01">Jan 1, 2020</time>
                 </div>
               </div><!-- End recent post item-->
 
               <div class="post-item">
-                <img src="{{ asset('assets/img/blog/blog-recent-3.jpg') }}" alt="" class="flex-shrink-0">
+                <img src="{{ asset('assets/img/blog/blog-3.jpg') }}" alt="" class="flex-shrink-0">
                 <div>
-                  <h4><a href="blog-details.html">Id quia et et ut maxime similique occaecati ut</a></h4>
+                  <h4><a href="{{ route('blog.detail', ['slug' => '3']) }}">Id quia et et ut maxime similique occaecati ut</a></h4>
                   <time datetime="2020-01-01">Jan 1, 2020</time>
                 </div>
               </div><!-- End recent post item-->

@@ -45,6 +45,34 @@
 </section>
 <!-- /About Section -->
 
+<!-- Visi & Misi Section -->
+<section id="vision-mission" class="vision-mission section py-5 bg-light">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="inner-title">Visi & Misi</h2>
+        <h4 class="text">Tujuan dan Target Rifqi Mebel</h4>
+        <p>Visi dan misi kami mencerminkan komitmen untuk terus berinovasi, memberikan yang terbaik, serta memperluas pelayanan ke seluruh Indonesia.</p>
+      </div>
+      <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
+        <h3 class="text-center">Visi Rifqi Mebel</h3>
+        <p>Menjadi penyedia sofa terbaik di Indonesia yang mengutamakan kualitas, kenyamanan, dan desain elegan, serta memberikan layanan yang memuaskan bagi pelanggan di seluruh Indonesia.</p>
+      </div>
+      <div class="col-lg-6" data-aos="fade-left" data-aos-delay="200">
+        <h3 class="text-center">Misi Rifqi Mebel</h3>
+        <ul class="list-unstyled">
+          <li><i class="bi bi-check-circle text-success"></i> Menyediakan sofa dengan kualitas terbaik dan desain modern untuk rumah dan usaha.</li>
+          <li><i class="bi bi-check-circle text-success"></i> Memberikan produk berkualitas dengan harga terjangkau, tanpa mengorbankan kenyamanan.</li>
+          <li><i class="bi bi-check-circle text-success"></i> Menawarkan layanan custom order sesuai dengan kebutuhan pelanggan.</li>
+          <li><i class="bi bi-check-circle text-success"></i> Memberikan solusi reparasi sofa berkualitas dengan harga terjangkau.</li>
+          <li><i class="bi bi-check-circle text-success"></i> Terus memperluas jangkauan pasar ke berbagai kota di Indonesia dengan menyediakan sofa berkualitas tinggi.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /Visi & Misi Section -->
+
 <!-- Call to Action -->
 <section class="cta-section bg- text-greyhite text-center py-4 mb-2rem">
   <div class="container">
@@ -56,4 +84,5 @@
   </div>
 </section>
 <!-- /Call to Action -->
+
 @endsection

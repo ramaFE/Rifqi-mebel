@@ -5,7 +5,7 @@
 
 @section('content')
 <!-- Page Title -->
-<div class="page-title dark-background" style="background-image: url(assets/img/page-title-bg.jpg);">
+<div class="page-title dark-background" style="background-image: url({{ asset('assets/img/page-title-bg.jpg') }});">
   <div class="container position-relative">
     <h1>Blog</h1>
     <nav class="breadcrumbs">
@@ -112,7 +112,7 @@
 
             <hr>
 
-            <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+            <a href="{{ route('blog.detail', ['slug' => '1']) }}" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
 
           </div>
 
@@ -136,7 +136,7 @@
 
             <hr>
 
-            <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+            <a href="{{ route('blog.detail', ['slug' => '2']) }}" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
 
           </div>
 
@@ -160,7 +160,7 @@
 
             <hr>
 
-            <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+            <a href="{{ route('blog.detail', ['slug' => '3']) }}" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
 
           </div>
 

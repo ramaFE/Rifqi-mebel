@@ -63,16 +63,16 @@
 
                   <blockquote>
                     <p>
-                      Kafe – Ciptakan suasana nyaman dan stylish untuk pelanggan Anda.
-                      <br> Karaoke – Sofa berkualitas untuk kenyamanan tamu.
-                      <br> Kantor – Memberikan kesan profesional dan nyaman bagi karyawan serta tamu Anda.
+                     <strong>Kafe</strong> – Ciptakan suasana nyaman dan stylish untuk pelanggan Anda.
+                      <br> <strong>Karaoke</strong> – Sofa berkualitas untuk kenyamanan tamu.
+                      <br> <strong>Kantor</strong> – Memberikan kesan profesional dan nyaman bagi karyawan serta tamu Anda.
                     </p>
                   </blockquote>
 
                   
                   <h3> Kualitas Terbaik dengan Harga Bersahabat.</h3> 
                   <p>
-                    <br> Kami memahami pentingnya kualitas dalam setiap produk yang kami buat. 
+                    Kami memahami pentingnya kualitas dalam setiap produk yang kami buat. 
                     Oleh karena itu, Rifqi Mebel Semarang menggunakan bahan-bahan terbaik yang tahan lama dan nyaman digunakan. 
                     Dengan harga yang tetap bersahabat, kami berkomitmen untuk memberikan produk berkualitas tinggi yang tetap terjangkau bagi pelanggan.
                   </p>
@@ -285,25 +285,25 @@
               <h3 class="widget-title">Recent Posts</h3>
 
               <div class="post-item">
-                <img src="{{ asset('assets/img/blog/blog-recent-1.jpg') }}" alt="" class="flex-shrink-0">
+                <img src="{{ asset('assets/img/blog/blog-1.jpg') }}" alt="" class="flex-shrink-0">
                 <div>
-                  <h4><a href="blog-details.html">Nihil blanditiis at in nihil autem</a></h4>
+                  <h4><a href="{{ route('blog.detail', ['slug' => '1']) }}">Nihil blanditiis at in nihil autem</a></h4>
                   <time datetime="2020-01-01">Jan 1, 2020</time>
                 </div>
               </div><!-- End recent post item-->
 
               <div class="post-item">
-                <img src="{{ asset('assets/img/blog/blog-recent-2.jpg') }}" alt="" class="flex-shrink-0">
+                <img src="{{ asset('assets/img/blog/blog-2.jpg') }}" alt="" class="flex-shrink-0">
                 <div>
-                  <h4><a href="blog-details.html">Quidem autem et impedit</a></h4>
+                  <h4><a href="{{ route('blog.detail', ['slug' => '2']) }}">Quidem autem et impedit</a></h4>
                   <time datetime="2020-01-01">Jan 1, 2020</time>
                 </div>
               </div><!-- End recent post item-->
 
               <div class="post-item">
-                <img src="{{ asset('assets/img/blog/blog-recent-3.jpg') }}" alt="" class="flex-shrink-0">
+                <img src="{{ asset('assets/img/blog/blog-3.jpg') }}" alt="" class="flex-shrink-0">
                 <div>
-                  <h4><a href="blog-details.html">Id quia et et ut maxime similique occaecati ut</a></h4>
+                  <h4><a href="{{ route('blog.detail', ['slug' => '3']) }}">Id quia et et ut maxime similique occaecati ut</a></h4>
                   <time datetime="2020-01-01">Jan 1, 2020</time>
                 </div>
               </div><!-- End recent post item-->

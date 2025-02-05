@@ -56,9 +56,19 @@
 
     <div class="row gy-4 mt-1">
       <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
-        <iframe src="https://www.google.com/maps/place/6%C2%B058'11.8%22S+110%C2%B018'02.4%22E/@-6.969955,110.2980841,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.969955!4d110.300659?hl=en-ID&entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D" frameborder="0" style="border:0; width: 100%; height: 400px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-      </div><!-- End Google Maps -->
+        <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3960.3333394418187!2d110.3006667!3d-6.969944399999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNsKwNTgnMTEuOCJTIDExMMKwMTgnMDIuNCJF!5e0!3m2!1sen!2sid!4v1738776475273!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </div>
+      <!-- End Google Maps -->
 
+      <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
+        <div class="info-item d-flex flex-column justify-content-center align-items-center">
+          <i class="bi bi-clock"></i>
+          <h3>Jam Operasional</h3>
+          <p>Senin - Jumat: 08.00 - 18.00</p>
+          <p>Sabtu - Minggu: 09.00 - 17.00</p>
+        </div>
+      </div>
+      
     </div>
 
   </div>

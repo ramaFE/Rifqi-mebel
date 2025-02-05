@@ -35,10 +35,10 @@
               <article class="article">
 
                 <div class="post-img">
-                  <img src="{{ asset('assets/img/blog/blog-1.jpg') }}" alt="" class="img-fluid">
+                  <img src="{{ asset('assets/img/blog/blog-2.jpg') }}" alt="" class="img-fluid">
                 </div>
 
-                <h2 class="title">Rifqi Mebel Semarang: Solusi Sofa Berkualitas dengan Harga Bersahabat</h2>
+                <h2 class="title">Rifqi Mebel Semarang: Jasa Reparasi Sofa untuk Tampilan Baru yang Lebih Prima</h2>
 
                 <div class="meta-top">
                   <ul>
@@ -50,52 +50,42 @@
 
                 <div class="content">
                   <p>
-                    Jika Anda sedang mencari sofa dengan kualitas bahan terbaik dan harga yang bersahabat, 
-                    Rifqi Mebel Semarang adalah pilihan yang tepat! Berlokasi di Mangkang, Semarang, 
-                    kami menghadirkan berbagai pilihan sofa yang nyaman dan elegan untuk memenuhi kebutuhan rumah tangga maupun bisnis Anda.
+                    Bagi banyak orang, sofa bukan sekadar furnitur, tetapi juga menyimpan banyak kenangan. 
+                    Namun, seiring waktu, kondisi sofa bisa menjadi usang dan kurang nyaman. 
+                    Jika Anda ingin meng-upgrade tampilan rumah tanpa harus membeli sofa baru, <strong>reparasi sofa</strong> adalah solusinya!
                   </p>
-
+                  
+                  <h3>Mengembalikan Keindahan dan Kenyamanan Sofa Lama.</h3> 
                   <p>
-                    Sofa untuk Rumah dan Usaha Rifqi Mebel Semarang tidak hanya menyediakan sofa untuk keperluan rumah tangga
-                    , tetapi juga untuk berbagai kebutuhan usaha seperti:
-
+                    Reparasi sofa memungkinkan Anda untuk memperbarui tampilan dan fungsi sofa sesuai keinginan. 
+                    Beberapa perbaikan yang sering dilakukan antara lain:
                   </p>
-
                   <blockquote>
                     <p>
-                      Kafe – Ciptakan suasana nyaman dan stylish untuk pelanggan Anda.
-                      <br> Karaoke – Sofa berkualitas untuk kenyamanan tamu.
-                      <br> Kantor – Memberikan kesan profesional dan nyaman bagi karyawan serta tamu Anda.
+                     <strong>Mengganti Busa</strong> – Jika busa sofa sudah tipis dan tidak nyaman lagi, kami dapat menggantinya dengan yang lebih empuk dan tahan lama.
+                     <br> <strong>Pemulihan Rangka Kayu</strong> – Jika rangka kayu mengalami kerusakan atau warna kayunya sudah pudar, kami bisa memperbaikinya dan mempliturnya kembali agar tampak seperti baru.
+                     <br> <strong>Penggantian Kain Pelapis</strong> – Jika kain sofa sudah sobek atau warnanya memudar, kami menyediakan berbagai pilihan kain pelapis yang berkualitas dan sesuai dengan selera Anda.
                     </p>
                   </blockquote>
 
                   
-                  <h3> Kualitas Terbaik dengan Harga Bersahabat.</h3> 
+                  <h3>Sofa Lama, Tampilan Baru.</h3> 
                   <p>
-                    <br> Kami memahami pentingnya kualitas dalam setiap produk yang kami buat. 
-                    Oleh karena itu, Rifqi Mebel Semarang menggunakan bahan-bahan terbaik yang tahan lama dan nyaman digunakan. 
-                    Dengan harga yang tetap bersahabat, kami berkomitmen untuk memberikan produk berkualitas tinggi yang tetap terjangkau bagi pelanggan.
+                    Dengan layanan <strong>reparasi sofa</strong> , Anda tidak hanya menghemat biaya dibandingkan membeli yang baru, tetapi juga bisa tetap mempertahankan sofa kesayangan Anda dalam kondisi terbaik. 
+                    Dari segi fungsi hingga visual, sofa yang direparasi bisa tampil lebih prima dan modern.
                   </p>
 
-                  <h3>Custom Order & Pre-Order.</h3>
+                  <h3>Jasa Reparasi Sofa di Rifqi Mebel Semarang.</h3>
                   <p>
-                    Kami juga melayani pemesanan sofa secara custom sesuai dengan keinginan dan kebutuhan pelanggan. 
-                    Anda bisa request ukuran, warna, hingga desain yang diinginkan. 
-                    Sistem pemesanan di Rifqi Mebel Semarang adalah pre-order, sehingga setiap produk dibuat khusus dengan ketelitian dan kualitas maksimal. 
-                  </p>
-
-                  <h3>Ekspansi ke Berbagai Kota di Jawa Tengah.</h3>
-                  <p>
-                    Awalnya, Rifqi Mebel Semarang memasarkan produk di wilayah Semarang. 
-                    Seiring dengan meningkatnya permintaan, kami mulai memperluas jangkauan ke berbagai kabupaten kecil di sekitarnya hingga ke kota-kota besar di Jawa Tengah. 
-                    Hal ini membuktikan bahwa kualitas dan harga sofa dari Rifqi Mebel Semarang telah mendapat tempat di hati banyak pelanggan.
+                    Kini, Rifqi Mebel Semarang juga membuka jasa reparasi sofa yang bisa disesuaikan dengan kebutuhan Anda. 
+                    Kami siap membantu memperbaiki dan memperbarui sofa sesuai request, sehingga tetap nyaman digunakan dan tampak seperti baru. 
                   </p>
 
                   <h3>Hubungi Kami.</h3>
                   <p>
-                    Tertarik untuk memiliki sofa berkualitas dari Rifqi Mebel Semarang? 
-                    Hubungi kami sekarang untuk konsultasi dan pemesanan! 
-                    Kami siap membantu Anda mendapatkan sofa impian dengan harga yang bersahabat.
+                    Jangan biarkan sofa kesayangan Anda terlihat usang dan tak nyaman lagi. 
+                    Percayakan reparasi sofa Anda kepada <strong>Rifqi Mebel Semarang</strong>, dan rasakan perbedaannya!
+                   <strong>Rifqi Mebel Semarang – Transformasi Sofa Lama Menjadi Lebih Prima!  </strong>                  
                   </p>
 
                 </div><!-- End post content -->
@@ -285,25 +275,25 @@
               <h3 class="widget-title">Recent Posts</h3>
 
               <div class="post-item">
-                <img src="{{ asset('assets/img/blog/blog-recent-1.jpg') }}" alt="" class="flex-shrink-0">
+                <img src="{{ asset('assets/img/blog/blog-1.jpg') }}" alt="" class="flex-shrink-0">
                 <div>
-                  <h4><a href="blog-details.html">Nihil blanditiis at in nihil autem</a></h4>
+                  <h4><a href="{{ route('blog.detail', ['slug' => '1']) }}">Nihil blanditiis at in nihil autem</a></h4>
                   <time datetime="2020-01-01">Jan 1, 2020</time>
                 </div>
               </div><!-- End recent post item-->
 
               <div class="post-item">
-                <img src="{{ asset('assets/img/blog/blog-recent-2.jpg') }}" alt="" class="flex-shrink-0">
+                <img src="{{ asset('assets/img/blog/blog-2.jpg') }}" alt="" class="flex-shrink-0">
                 <div>
-                  <h4><a href="blog-details.html">Quidem autem et impedit</a></h4>
+                  <h4><a href="{{ route('blog.detail', ['slug' => '2']) }}">Quidem autem et impedit</a></h4>
                   <time datetime="2020-01-01">Jan 1, 2020</time>
                 </div>
               </div><!-- End recent post item-->
 
               <div class="post-item">
-                <img src="{{ asset('assets/img/blog/blog-recent-3.jpg') }}" alt="" class="flex-shrink-0">
+                <img src="{{ asset('assets/img/blog/blog-3.jpg') }}" alt="" class="flex-shrink-0">
                 <div>
-                  <h4><a href="blog-details.html">Id quia et et ut maxime similique occaecati ut</a></h4>
+                  <h4><a href="{{ route('blog.detail', ['slug' => '3']) }}">Id quia et et ut maxime similique occaecati ut</a></h4>
                   <time datetime="2020-01-01">Jan 1, 2020</time>
                 </div>
               </div><!-- End recent post item-->
