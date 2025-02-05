@@ -5,7 +5,7 @@
 @section('meta-keywords', 'Rifqi Mebel, tentang kami, sofa berkualitas, furnitur premium, pengiriman sofa')
 @section('meta-og-title', 'Tentang Rifqi Mebel')
 @section('meta-og-description', 'Kenali lebih dalam tentang Rifqi Mebel dan bagaimana kami menghadirkan sofa berkualitas terbaik.')
-@section('meta-og-image', asset('assets/img/about.jpg'))
+
 
 @section('content')
 <main class="main">
@@ -16,7 +16,7 @@
         <h1>Blog Details</h1>
         <nav class="breadcrumbs">
           <ol>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="{{ route('home') }}">Home</a></li>
             <li class="current">Blog Details</li>
           </ol>
         </nav>
@@ -35,10 +35,10 @@
               <article class="article">
 
                 <div class="post-img">
-                  <img src="assets/img/blog/blog-1.jpg" alt="" class="img-fluid">
+                  <img src="{{ asset('assets/img/blog/blog-1.jpg') }}" alt="" class="img-fluid">
                 </div>
 
-                <h2 class="title">Dolorum optio tempore voluptas dignissimos cumque fuga qui quibusdam quia</h2>
+                <h2 class="title">Rifqi Mebel Semarang: Solusi Sofa Berkualitas dengan Harga Bersahabat</h2>
 
                 <div class="meta-top">
                   <ul>
@@ -50,41 +50,52 @@
 
                 <div class="content">
                   <p>
-                    Similique neque nam consequuntur ad non maxime aliquam quas. Quibusdam animi praesentium. Aliquam et laboriosam eius aut nostrum quidem aliquid dicta.
-                    Et eveniet enim. Qui velit est ea dolorem doloremque deleniti aperiam unde soluta. Est cum et quod quos aut ut et sit sunt. Voluptate porro consequatur assumenda perferendis dolore.
+                    Jika Anda sedang mencari sofa dengan kualitas bahan terbaik dan harga yang bersahabat, 
+                    Rifqi Mebel Semarang adalah pilihan yang tepat! Berlokasi di Mangkang, Semarang, 
+                    kami menghadirkan berbagai pilihan sofa yang nyaman dan elegan untuk memenuhi kebutuhan rumah tangga maupun bisnis Anda.
                   </p>
 
                   <p>
-                    Sit repellat hic cupiditate hic ut nemo. Quis nihil sunt non reiciendis. Sequi in accusamus harum vel aspernatur. Excepturi numquam nihil cumque odio. Et voluptate cupiditate.
+                    Sofa untuk Rumah dan Usaha Rifqi Mebel Semarang tidak hanya menyediakan sofa untuk keperluan rumah tangga
+                    , tetapi juga untuk berbagai kebutuhan usaha seperti:
+
                   </p>
 
                   <blockquote>
                     <p>
-                      Et vero doloremque tempore voluptatem ratione vel aut. Deleniti sunt animi aut. Aut eos aliquam doloribus minus autem quos.
+                      Kafe – Ciptakan suasana nyaman dan stylish untuk pelanggan Anda.
+                      <br> Karaoke – Sofa berkualitas untuk kenyamanan tamu.
+                      <br> Kantor – Memberikan kesan profesional dan nyaman bagi karyawan serta tamu Anda.
                     </p>
                   </blockquote>
 
+                  
+                  <h3> Kualitas Terbaik dengan Harga Bersahabat.</h3> 
                   <p>
-                    Sed quo laboriosam qui architecto. Occaecati repellendus omnis dicta inventore tempore provident voluptas mollitia aliquid. Id repellendus quia. Asperiores nihil magni dicta est suscipit perspiciatis. Voluptate ex rerum assumenda dolores nihil quaerat.
-                    Dolor porro tempora et quibusdam voluptas. Beatae aut at ad qui tempore corrupti velit quisquam rerum. Omnis dolorum exercitationem harum qui qui blanditiis neque.
-                    Iusto autem itaque. Repudiandae hic quae aspernatur ea neque qui. Architecto voluptatem magni. Vel magnam quod et tempora deleniti error rerum nihil tempora.
+                    <br> Kami memahami pentingnya kualitas dalam setiap produk yang kami buat. 
+                    Oleh karena itu, Rifqi Mebel Semarang menggunakan bahan-bahan terbaik yang tahan lama dan nyaman digunakan. 
+                    Dengan harga yang tetap bersahabat, kami berkomitmen untuk memberikan produk berkualitas tinggi yang tetap terjangkau bagi pelanggan.
                   </p>
 
-                  <h3>Et quae iure vel ut odit alias.</h3>
+                  <h3>Custom Order & Pre-Order.</h3>
                   <p>
-                    Officiis animi maxime nulla quo et harum eum quis a. Sit hic in qui quos fugit ut rerum atque. Optio provident dolores atque voluptatem rem excepturi molestiae qui. Voluptatem laborum omnis ullam quibusdam perspiciatis nulla nostrum. Voluptatum est libero eum nesciunt aliquid qui.
-                    Quia et suscipit non sequi. Maxime sed odit. Beatae nesciunt nesciunt accusamus quia aut ratione aspernatur dolor. Sint harum eveniet dicta exercitationem minima. Exercitationem omnis asperiores natus aperiam dolor consequatur id ex sed. Quibusdam rerum dolores sint consequatur quidem ea.
-                    Beatae minima sunt libero soluta sapiente in rem assumenda. Et qui odit voluptatem. Cum quibusdam voluptatem voluptatem accusamus mollitia aut atque aut.
+                    Kami juga melayani pemesanan sofa secara custom sesuai dengan keinginan dan kebutuhan pelanggan. 
+                    Anda bisa request ukuran, warna, hingga desain yang diinginkan. 
+                    Sistem pemesanan di Rifqi Mebel Semarang adalah pre-order, sehingga setiap produk dibuat khusus dengan ketelitian dan kualitas maksimal. 
                   </p>
-                  <img src="assets/img/blog/blog-inside-post.jpg" class="img-fluid" alt="">
 
-                  <h3>Ut repellat blanditiis est dolore sunt dolorum quae.</h3>
+                  <h3>Ekspansi ke Berbagai Kota di Jawa Tengah.</h3>
                   <p>
-                    Rerum ea est assumenda pariatur quasi et quam. Facilis nam porro amet nostrum. In assumenda quia quae a id praesentium. Quos deleniti libero sed occaecati aut porro autem. Consectetur sed excepturi sint non placeat quia repellat incidunt labore. Autem facilis hic dolorum dolores vel.
-                    Consectetur quasi id et optio praesentium aut asperiores eaque aut. Explicabo omnis quibusdam esse. Ex libero illum iusto totam et ut aut blanditiis. Veritatis numquam ut illum ut a quam vitae.
+                    Awalnya, Rifqi Mebel Semarang memasarkan produk di wilayah Semarang. 
+                    Seiring dengan meningkatnya permintaan, kami mulai memperluas jangkauan ke berbagai kabupaten kecil di sekitarnya hingga ke kota-kota besar di Jawa Tengah. 
+                    Hal ini membuktikan bahwa kualitas dan harga sofa dari Rifqi Mebel Semarang telah mendapat tempat di hati banyak pelanggan.
                   </p>
+
+                  <h3>Hubungi Kami.</h3>
                   <p>
-                    Alias quia non aliquid. Eos et ea velit. Voluptatem maxime enim omnis ipsa voluptas incidunt. Nulla sit eaque mollitia nisi asperiores est veniam.
+                    Tertarik untuk memiliki sofa berkualitas dari Rifqi Mebel Semarang? 
+                    Hubungi kami sekarang untuk konsultasi dan pemesanan! 
+                    Kami siap membantu Anda mendapatkan sofa impian dengan harga yang bersahabat.
                   </p>
 
                 </div><!-- End post content -->
@@ -139,7 +150,7 @@
 
               <div id="comment-1" class="comment">
                 <div class="d-flex">
-                  <div class="comment-img"><img src="url(assets/img/blog/comments-1.jpg)" alt=""></div>
+                  <div class="comment-img"><img src="{{ asset('assets/img/blog/comments-1.jpg') }}" alt=""></div>
                   <div>
                     <h5><a href="">Georgia Reader</a> <a href="#" class="reply"><i class="bi bi-reply-fill"></i> Reply</a></h5>
                     <time datetime="2020-01-01">01 Jan,2022</time>
@@ -153,7 +164,7 @@
 
               <div id="comment-2" class="comment">
                 <div class="d-flex">
-                  <div class="comment-img"><img src="assets/img/blog/comments-2.jpg" alt=""></div>
+                  <div class="comment-img"><img src="{{ asset('assets/img/blog/comments-2.jpg') }}" alt=""></div>
                   <div>
                     <h5><a href="">Aron Alvarado</a> <a href="#" class="reply"><i class="bi bi-reply-fill"></i> Reply</a></h5>
                     <time datetime="2020-01-01">01 Jan,2022</time>
@@ -165,7 +176,7 @@
 
                 <div id="comment-reply-1" class="comment comment-reply">
                   <div class="d-flex">
-                    <div class="comment-img"><img src="assets/img/blog/comments-3.jpg" alt=""></div>
+                    <div class="comment-img"><img src="{{ asset('assets/img/blog/comments-3.jpg') }}" alt=""></div>
                     <div>
                       <h5><a href="">Lynda Small</a> <a href="#" class="reply"><i class="bi bi-reply-fill"></i> Reply</a></h5>
                       <time datetime="2020-01-01">01 Jan,2022</time>
@@ -181,7 +192,7 @@
 
                   <div id="comment-reply-2" class="comment comment-reply">
                     <div class="d-flex">
-                      <div class="comment-img"><img src="assets/img/blog/comments-4.jpg" alt=""></div>
+                      <div class="comment-img"><img src="{{ asset('assets/img/blog/comments-4.jpg') }}" alt=""></div>
                       <div>
                         <h5><a href="">Sianna Ramsay</a> <a href="#" class="reply"><i class="bi bi-reply-fill"></i> Reply</a></h5>
                         <time datetime="2020-01-01">01 Jan,2022</time>
@@ -197,38 +208,10 @@
 
               </div><!-- End comment #2-->
 
-              <div id="comment-3" class="comment">
-                <div class="d-flex">
-                  <div class="comment-img"><img src="assets/img/blog/comments-5.jpg" alt=""></div>
-                  <div>
-                    <h5><a href="">Nolan Davidson</a> <a href="#" class="reply"><i class="bi bi-reply-fill"></i> Reply</a></h5>
-                    <time datetime="2020-01-01">01 Jan,2022</time>
-                    <p>
-                      Distinctio nesciunt rerum reprehenderit sed. Iste omnis eius repellendus quia nihil ut accusantium tempore. Nesciunt expedita id dolor exercitationem aspernatur aut quam ut. Voluptatem est accusamus iste at.
-                      Non aut et et esse qui sit modi neque. Exercitationem et eos aspernatur. Ea est consequuntur officia beatae ea aut eos soluta. Non qui dolorum voluptatibus et optio veniam. Quam officia sit nostrum dolorem.
-                    </p>
-                  </div>
-                </div>
-
-              </div><!-- End comment #3 -->
-
-              <div id="comment-4" class="comment">
-                <div class="d-flex">
-                  <div class="comment-img"><img src="assets/img/blog/comments-6.jpg" alt=""></div>
-                  <div>
-                    <h5><a href="">Kay Duggan</a> <a href="#" class="reply"><i class="bi bi-reply-fill"></i> Reply</a></h5>
-                    <time datetime="2020-01-01">01 Jan,2022</time>
-                    <p>
-                      Dolorem atque aut. Omnis doloremque blanditiis quia eum porro quis ut velit tempore. Cumque sed quia ut maxime. Est ad aut cum. Ut exercitationem non in fugiat.
-                    </p>
-                  </div>
-                </div>
-
-              </div><!-- End comment #4 -->
-
             </div>
 
-          </section><!-- /Blog Comments Section -->
+          </section>
+          <!-- /Blog Comments Section -->
 
           <!-- Comment Form Section -->
           <section id="comment-form" class="comment-form section">
@@ -264,7 +247,8 @@
               </form>
 
             </div>
-          </section><!-- /Comment Form Section -->
+          </section>
+          <!-- /Comment Form Section -->
 
         </div>
 
@@ -301,7 +285,7 @@
               <h3 class="widget-title">Recent Posts</h3>
 
               <div class="post-item">
-                <img src="assets/img/blog/blog-recent-1.jpg" alt="" class="flex-shrink-0">
+                <img src="{{ asset('assets/img/blog/blog-recent-1.jpg') }}" alt="" class="flex-shrink-0">
                 <div>
                   <h4><a href="blog-details.html">Nihil blanditiis at in nihil autem</a></h4>
                   <time datetime="2020-01-01">Jan 1, 2020</time>
@@ -309,7 +293,7 @@
               </div><!-- End recent post item-->
 
               <div class="post-item">
-                <img src="assets/img/blog/blog-recent-2.jpg" alt="" class="flex-shrink-0">
+                <img src="{{ asset('assets/img/blog/blog-recent-2.jpg') }}" alt="" class="flex-shrink-0">
                 <div>
                   <h4><a href="blog-details.html">Quidem autem et impedit</a></h4>
                   <time datetime="2020-01-01">Jan 1, 2020</time>
@@ -317,28 +301,13 @@
               </div><!-- End recent post item-->
 
               <div class="post-item">
-                <img src="assets/img/blog/blog-recent-3.jpg" alt="" class="flex-shrink-0">
+                <img src="{{ asset('assets/img/blog/blog-recent-3.jpg') }}" alt="" class="flex-shrink-0">
                 <div>
                   <h4><a href="blog-details.html">Id quia et et ut maxime similique occaecati ut</a></h4>
                   <time datetime="2020-01-01">Jan 1, 2020</time>
                 </div>
               </div><!-- End recent post item-->
 
-              <div class="post-item">
-                <img src="assets/img/blog/blog-recent-4.jpg" alt="" class="flex-shrink-0">
-                <div>
-                  <h4><a href="blog-details.html">Laborum corporis quo dara net para</a></h4>
-                  <time datetime="2020-01-01">Jan 1, 2020</time>
-                </div>
-              </div><!-- End recent post item-->
-
-              <div class="post-item">
-                <img src="assets/img/blog/blog-recent-5.jpg" alt="" class="flex-shrink-0">
-                <div>
-                  <h4><a href="blog-details.html">Et dolores corrupti quae illo quod dolor</a></h4>
-                  <time datetime="2020-01-01">Jan 1, 2020</time>
-                </div>
-              </div><!-- End recent post item-->
 
           </div>
 
